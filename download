@@ -1,0 +1,4 @@
+KHQR_PROFILE_ID=your_profile_id_here
+KHQR_SECRET_KEY=your_secret_key_here
+KHQR_GATEWAY_URL=https://khqr.cc/api/payment/request
+APP_BASE_URL=https://your-domain.com
